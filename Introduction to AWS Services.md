@@ -357,16 +357,6 @@ A typical AWS cloud architecture works as follows:
 
 ---
 
-##  Learning Outcomes
-
-After completing this study, you will be able to:
-
-* Explain AWS services clearly in exams and interviews
-* Design basic AWS architectures
-* Understand cloud security fundamentals
-* Build a strong base for cloud and cybersecurity careers
-
----
 
 ##  Notes
 
